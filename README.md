@@ -1,1 +1,3 @@
-# JavaCode
+# maven-project
+
+Simple Maven Project
